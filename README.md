@@ -80,7 +80,7 @@ As seguintes ferramentas foram ou estão sendo usadas na construção do projeto
 -   **[Axios](https://github.com/axios/axios)**
 -   **[React Dropzone](https://github.com/react-dropzone/react-dropzone)**
 
-> Veja o arquivo  [package.json](https://github.com/niltond3/v5-sheet/web/package.json)
+> Veja o arquivo  [package.json](https://github.com/niltond3/v5-sheet/blob/master/web/package.json)
 
 #### **Server**  ([NodeJS](https://nodejs.org/en/)  +  [TypeScript](https://www.typescriptlang.org/))
 
@@ -92,7 +92,7 @@ As seguintes ferramentas foram ou estão sendo usadas na construção do projeto
 -   **[Celebrate](https://github.com/arb/celebrate)**
 -   **[Joi](https://github.com/hapijs/joi)**
 
-> Veja o arquivo  [package.json](https://github.com/niltond3/v5-sheet/server/package.json)
+> Veja o arquivo  [package.json](https://github.com/niltond3/v5-sheet/blob/master/server/package.json)
 
 #### **Mobile**  ([React Native](http://www.reactnative.com/)  +  [TypeScript](https://www.typescriptlang.org/))
 

@@ -15,7 +15,7 @@
 
 </p>
 <h1 align="center">
-    <img alt="V5-SHEET" title="#V5-SHEET" src="./assets/logo-main.svg" />
+    <img alt="V5-SHEET" title="#V5-SHEET" src="./assets/logo-simplified.svg" />
 </h1>
 
 <h4 align="center">
@@ -25,7 +25,6 @@
 <p align="center">
  <a href="#-sobre-o-projeto">Sobre</a> •
  <a href="#-funcionalidades">Funcionalidades</a> •
- <a href="#-layout">Layout</a> •
  <a href="#-como-executar-o-projeto">Como executar</a> •
  <a href="#-tecnologias">Tecnologias</a> •
  <a href="#-autor">Autor</a> •
@@ -67,6 +66,55 @@ Este projeto é divido em quatro partes:
 4. bot (pasta bot)
 
 💡Tanto o Frontend quanto o Mobile precisam que o Backend e o bot esteja sendo executado para funcionar.
+
+---
+
+## 🛠 Tecnologias
+
+As seguintes ferramentas foram ou estão sendo usadas na construção do projeto:
+
+#### **Website**  ([React](https://reactjs.org/)  +  [TypeScript](https://www.typescriptlang.org/))
+
+-   **[React Router Dom](https://github.com/ReactTraining/react-router/tree/master/packages/react-router-dom)**
+-   **[React Icons](https://react-icons.github.io/react-icons/)**
+-   **[Axios](https://github.com/axios/axios)**
+-   **[React Dropzone](https://github.com/react-dropzone/react-dropzone)**
+
+> Veja o arquivo  [package.json](https://github.com/niltond3/v5-sheet/web/package.json)
+
+#### **Server**  ([NodeJS](https://nodejs.org/en/)  +  [TypeScript](https://www.typescriptlang.org/))
+
+-   **[Express](https://expressjs.com/)**
+-   **[ts-node](https://github.com/TypeStrong/ts-node)**
+-   **[typeorm](https://github.com/typeorm/typeorm)**
+-   **[postgres](https://github.com/postgres/postgres)**
+-   **[Multer](https://github.com/expressjs/multer)**
+-   **[Celebrate](https://github.com/arb/celebrate)**
+-   **[Joi](https://github.com/hapijs/joi)**
+
+> Veja o arquivo  [package.json](https://github.com/niltond3/v5-sheet/server/package.json)
+
+#### **Mobile**  ([React Native](http://www.reactnative.com/)  +  [TypeScript](https://www.typescriptlang.org/))
+
+-   **[Em desenvolvimento](/https://github.com/niltond3)**
+
+> Veja o arquivo  [package.json](https://github.com/niltond3)
+
+#### [](https://https://github.com/niltond3/bot)**Discord Bot**  ([NodeJS](https://nodejs.org/en/)  +  [TypeScript](https://www.typescriptlang.org/))
+
+-   **[discordjs](https://github.com/discordjs/discord.js)** 
+-   **[Axios](https://github.com/axios/axios)**
+
+> Veja o arquivo  [package.json](https://github.com/niltond3)
+
+#### [](https://github.com/niltond3)**Utilitários**
+
+-   Protótipo:  **[Figma](https://www.figma.com/)**  →  **[Protótipo (V5 Sheet)](https://www.figma.com)**
+-   API:  **[Discord API](https://discord.com/developers/docs/intro)**  →  **[discord.js](https://discord.js.org/#/)**
+-   Editor:  **[Visual Studio Code](https://code.visualstudio.com/)**
+-   Markdown:  **[StackEdit](https://stackedit.io/)**,  **[Markdown Emoji](https://gist.github.com/rxaviers/7360908)**
+-   Teste de API:  **[Insomnia](https://insomnia.rest/)**
+-   Fontes:  **[Ubuntu](https://fonts.google.com/specimen/Ubuntu)**,  **[Roboto](https://fonts.google.com/specimen/Roboto)**
 
 ---
 

@@ -41,5 +41,6 @@ export default createGlobalStyle`
     --white: #fff;
     --ready: #f9a839;
     --sent: #0e8923;
+
   }
 `;

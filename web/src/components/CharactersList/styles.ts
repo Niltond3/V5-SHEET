@@ -5,10 +5,10 @@ export const Container = styled.div`
 
   display: flex;
   flex-direction: column;
-  align-items: center;
+  align-items: flex-start;
 
   background-color: var(--tertiary);
-  padding: 11px 0;
+  padding: 11px 0 0 11px;
 
   max-height: 100vh;
   overflow-y: scroll;

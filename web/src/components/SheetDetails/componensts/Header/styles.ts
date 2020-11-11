@@ -25,7 +25,7 @@ export const InformationCollum = styled.div`
 
 export const Text = styled.input`
   background-color: transparent;
-  width: min(125px, 100%);
+  width: 100%;
   height: 100%;
   padding: 25px 5px 0 5px;
   color: rgba(255, 255, 255, 0.5);
